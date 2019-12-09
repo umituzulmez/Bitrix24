@@ -11,4 +11,8 @@ public static void main(String[] args){
    System.out.println("Hi from IntelliJ");
  }
 
+ public String Hello(){
+  return "Hello from GitHub";
+}
+
 }
