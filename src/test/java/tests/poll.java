@@ -7,3 +7,7 @@ public class poll {
 
     //Some changes from my IDE
 }
+
+
+
+//some changes from GitHub
